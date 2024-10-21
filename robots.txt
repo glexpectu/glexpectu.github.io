@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://glexpectu.github.io/glexpectu.txt.gz
+Sitemap: https://glexpectu.github.io/app/glexpectu.txt.gz
+Sitemap: https://glexpectu.github.io/assets/glexpectu.txt.gz
+Sitemap: https://glexpectu.github.io/css/glexpectu.txt.gz
+Sitemap: https://glexpectu.github.io/includes/glexpectu.txt.gz
+Sitemap: https://glexpectu.github.io/item/glexpectu.txt.gz
+Sitemap: https://glexpectu.github.io/src/glexpectu.txt.gz
